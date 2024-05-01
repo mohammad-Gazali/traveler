@@ -1,0 +1,1 @@
+ALTER TABLE travels ADD `status` text;

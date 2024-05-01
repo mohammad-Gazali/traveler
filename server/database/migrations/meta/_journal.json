@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714580337546,
+      "tag": "0000_flowery_gorgon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1714589507483,
+      "tag": "0001_youthful_dust",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1714590575248,
+      "tag": "0002_blue_mandroid",
+      "breakpoints": true
+    }
+  ]
+}
